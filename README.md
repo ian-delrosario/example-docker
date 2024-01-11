@@ -16,17 +16,13 @@
 1. Change ```DB_HOST=db```
 2. Open the ```phpMyAdmin``` on ```localhost:3400```
 
-
 ## Rebuild your container
 
 1. ```docker compose up --build -d``` 
 
-
 ## Run commands inside the container
 
 1. ```docker compose exec app {command}``` 
-
-
 
 
 ## Stop the application
