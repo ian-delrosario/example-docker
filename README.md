@@ -1,4 +1,4 @@
-## Clone and Run docker
+## Clone and Run Docker
 
 1. ```git clone https://github.com/ian-delrosario/example-docker.git```
 2. ```cd example-docker```
